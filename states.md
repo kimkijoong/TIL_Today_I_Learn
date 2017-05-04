@@ -175,7 +175,7 @@ layerA.states =
         x: 200
  
 # Every time we call this we cycle to the next state 
-(우리가 이 사이클을 부를 때마다 다음 상태가 됩니다.)
+(우리가 이 사이클을 부를 때마다 다음 상태가 됩니다)
 
 layerA.stateCycle(["stateA", "stateB"])
 ```
